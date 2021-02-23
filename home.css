@@ -1,0 +1,25 @@
+header{
+    padding: 20px;
+    margin-top: -20px;
+    background-color: Blue;
+    width: auto;
+    height: 50px;
+}
+h1{
+	color: White;
+}
+.cenimage{
+	padding-top: 40px;
+}
+footer{
+	padding-top: 10px;
+	padding-bottom: 50px;
+    background-color: Gray;
+    width: auto;
+    height: 20px;
+    margin:0px;
+}
+.copyright{
+    padding: 0px;
+    text-align:left;
+}
