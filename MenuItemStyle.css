@@ -1,0 +1,69 @@
+header{
+    padding: 10px;
+    margin-top: -20px;
+    background-color: Blue;
+    width: auto;
+    height: 60px;
+}
+img{
+    margin-left: 20px;
+    width: 60px;
+    height: 45px;
+}
+#menu, #cart{
+    float: right;
+    color: White;
+    font-size: 13px;
+    margin-right: 50px;
+}
+.page-title{
+    color: White;
+    margin: 20px;
+    font-size: 24px;
+    font-family: Arial;
+}
+
+section{
+    margin-top: 110px;
+    height: 500px;
+    width: auto;
+}
+
+table, td, th{
+    text-align: center;
+    padding-right: 1em;
+    padding-bottom: 0.5em;
+}
+.column-first{
+    padding-right: 30em;
+    text-align: left;
+}
+
+h2{
+    margin-left: 5rem;
+    font-size: 26px;
+    font-weight: 100px;
+    font-family: Arial;
+}
+p{
+    color: Green;
+    text-align: center;
+    font-weight: bold;
+    margin-right: 15em;
+    font-family: Arial;
+    letter-spacing: 1px;
+}
+.center{
+    margin-left: 5rem;
+}
+footer{
+    background-color: Gray;
+    width: auto;
+    height: 60px;
+    margin-bottom: 0px;
+
+}
+.copyright{
+    padding: 10px;
+    text-align:left;
+}
